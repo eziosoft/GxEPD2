@@ -17,6 +17,7 @@
 #include "epd3c/GxEPD2_154c.h"
 #include "epd3c/GxEPD2_213c.h"
 #include "epd3c/GxEPD2_290c.h"
+#include "epd3c/GxEPD2_260c.h"
 #include "epd3c/GxEPD2_270c.h"
 #include "epd3c/GxEPD2_420c.h"
 #include "epd3c/GxEPD2_583c.h"

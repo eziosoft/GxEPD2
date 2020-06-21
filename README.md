@@ -61,6 +61,7 @@
 - GDEW029T5      2.9" b/w
 - GDEW029Z10     2.9" b/w/r
 - GDEW026T0      2.6" b/w
+- GDEW026Z39     2.6" b/w/r
 - GDEW027C44     2.7" b/w/r
 - GDEW027W3      2.7" b/w
 - GDEW0371W7     3.7" b/w
